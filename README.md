@@ -32,7 +32,7 @@ Insercion y consulta de datos por consola a una base de datos PostgreSQL.
 
 ## instalacion
 ```
- https://github.com/VictorTapiaEgana/alwaysmusic.git
+ https://github.com/VictorTapiaEgana/mibanco.git
  npm install
  npm start
 ```
